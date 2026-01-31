@@ -4,10 +4,10 @@ A FastAPI + Langchain + MERN Stack based application that recommends doctors bas
 This project combines a **FastAPI backend** for processing and recomendation with a ** frontend** for user interaction.
 
 #**Team Members Name**   
-Ayush Kumar Kushwaha (Team Leader)
-Ashutosh Pandey
-Arvind Yadav
-Ritesh
+Ayush Kumar Kushwaha (Team Leader)    
+Ashutosh Pandey      
+Arvind Yadav    
+Ritesh   
 
 ## 📁 Project Structure
 
